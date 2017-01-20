@@ -32,3 +32,5 @@ next time that the LED is turned on.
 If you don't shake the Tiva enoguh: The speed of the game increases, but the shake difficulty wont increase.
 
 The best score of the game is then stored in the EEPROM.
+
+This game was produced as the main project for the SE 101 course.
